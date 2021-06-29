@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description></description>
+    <link>https://sidesteps.github.io/</link>
+    <atom:link href="https://sidesteps.github.io/clojure-feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 29 Jun 2021 10:56:07 -0500</pubDate>
+    <lastBuildDate>Tue, 29 Jun 2021 10:56:07 -0500</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      
+      <item>
+        <title>Fun of clojure - wrap some code around data</title>
+        <description>&lt;p&gt;Recently FOMO got to me and I jumped on crypto speculation game. You gots to do bunch of accounting/counting/reconciling/tracking in it. Sounds boring, but clojure made it fun. And that’s what I want to share here.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 14 Jun 2021 00:00:00 -0500</pubDate>
+        <link>https://sidesteps.github.io/posts/fun-of-clojure.html</link>
+        <guid isPermaLink="true">https://sidesteps.github.io/posts/fun-of-clojure.html</guid>
+        
+        <category>clojure</category>
+        
+        <category>programming</category>
+        
+        
+      </item>
+      
+    
+       
+    
+       
+    
+       
+    
+       
+    
+       
+    
+  </channel>
+</rss>
